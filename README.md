@@ -1,2 +1,2 @@
 # EVE-NG-Templates
-Templates for EVE-NG with basic config
+Templates files for EVE-NG with basic config
